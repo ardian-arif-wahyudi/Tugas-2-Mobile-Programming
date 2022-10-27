@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tugas 2 Navigation Drawer</string>
+    <string name="open" />
+    <string name="close" />
+</resources>

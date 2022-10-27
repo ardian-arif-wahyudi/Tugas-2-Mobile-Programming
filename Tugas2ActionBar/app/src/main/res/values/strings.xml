@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tugas 2 Action Bar</string>
+
+    <string name="action_menu1">Menu 1</string>
+    <string name="action_menu2">Menu 2</string>
+</resources>
